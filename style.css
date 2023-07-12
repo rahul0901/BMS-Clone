@@ -87,12 +87,13 @@
 
 .left-list ul li{
     list-style: none;
-    padding-right: 12px ;
+    padding-right: 12px;
 }
 
 .left-list ul li a{
     text-decoration: none;
     color: inherit;
+    font-size: 14px;
 }
 
 .right-list ul{
