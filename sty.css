@@ -310,6 +310,10 @@
     padding: 14px 45px 12px 16px;
 }
 
+.foot-main{
+    background-color: #333338;
+}
+
 .foot{
     display: flex;
     justify-content: space-between;
@@ -326,4 +330,10 @@
     /* border: 1px solid red; */
     width: 115px;
     padding: 0px 20px;
+}
+
+.copy{
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
 }
